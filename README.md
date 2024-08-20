@@ -1,4 +1,4 @@
-<h1 align="center">This is —̳͟͞Charlie—̳͟͞🌟</h1>
+<h1 align="center">Abdul Rafay</h1>
 <h3 align="center">An upcoming passionate software developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-rafay-c4&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-rafay-c4" /> </p>
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdul rafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul rafay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul-rafay-58265b2a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul rafay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
