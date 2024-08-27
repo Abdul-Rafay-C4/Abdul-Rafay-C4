@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Neural Networks**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ML**
 
 - 👯 I’m looking to collaborate on **Game development and AI**
 
