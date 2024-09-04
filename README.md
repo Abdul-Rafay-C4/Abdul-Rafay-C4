@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Game development and AI**
 
-- 💬 Ask me about **C++, Java**
-
 - 📫 How to reach me **mrc4.business@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
